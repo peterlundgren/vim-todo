@@ -1,0 +1,16 @@
+[ ] A new task
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut lorem
+    bibendum, viverra ipsum sollicitudin, tempus enim. Curabitur et lorem elit.
+[.] A task in progress
+    http://example.com/bugtracker/123
+    Proin in convallis quam, vitae tincidunt odio.
+    [ ] A new subtask
+        Nam viverra sapien ut metus pellentesque congue. Proin nisl felis,
+        sodales eget ex non, imperdiet placerat libero. Mauris feugiat ante nec
+        arcu suscipit consequat eget ut erat.
+    [.] A subtask in progress
+    [x] A finished subtask
+[x] A finished task
+    Morbi a mauris imperdiet, tempus est ut, pretium enim. Donec ullamcorper,
+    dui vitae volutpat porttitor, justo justo lobortis justo, ac sollicitudin
+    eros arcu vel lacus. Nam nec iaculis mi.
