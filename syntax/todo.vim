@@ -42,7 +42,7 @@ for i in [0, 1, 2, 3, 4]
   call s:HighlightTask(i)
 endfor
 
-syn match url "http:[^\s]\+" contained
+syn match url "https\?:[^\s]\+" contained
 hi link url Comment
 
 function! TodoFoldText()
